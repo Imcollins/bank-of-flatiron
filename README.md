@@ -5,7 +5,7 @@
 #### By collins Kipngeno
 
 ## Description
-It's a webpage that shows activities  Bank of Flatiron.
+It's a webpage that shows Royal Bank of Flatiron activities.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
