@@ -4,6 +4,9 @@
 
 #### By collins Kipngeno
 
+# Live Link
+(https://imcollins.github.io/bank-of-flatiron)
+
 ## Description
 It's a webpage that shows Royal Bank of Flatiron activities.
 
@@ -17,10 +20,6 @@ Git
 
 Git clone https://git@github.com://imcollins.github.io/bank-of-flatiron
 
-
-
-# Live Link
-[Git](https://imcollins.github.io/bank-of-flatiron)
 
 ## Technologies used
 Github
